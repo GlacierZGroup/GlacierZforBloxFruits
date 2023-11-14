@@ -1,1 +1,1 @@
-loadstring(game(HttpGet:("https://raw.githubusercontent.com/GlacierTeam/GlacierZforBloxFruits/mainscript.lua/main"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GlacierTeam/GlacierZforBloxFruits/main/mainscript.lua"))()
